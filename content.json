@@ -1,1 +1,64 @@
-{}
+{
+    "algemeen": {
+        "creatiedatum_van_klinische_file": "Thu Jun 05 2014 00:00:00 GMT+0200 (CEST)",
+        "jaar_van_datacollectie": 2013
+    },
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "Man"
+        },
+        "etniciteit_vader": {
+            "selectedChoice": "Kaukasisch"
+        },
+        "etniciteit_moeder": {
+            "selectedChoice": "Kaukasisch"
+        },
+        "datum_van_de_eerste_insulinetoediening": "Wed Nov 06 2013 00:00:00 GMT+0100 (CET)",
+        "patient_niss": 123,
+        "naam": "doe",
+        "voornaam": "john",
+        "geboortemaand": 10,
+        "geboortejaar": 1999
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {},
+            "insulineschema": {}
+        },
+        "metingen": {
+            "lengte": {},
+            "gewicht": {},
+            "systolische_bloeddruk": {},
+            "diastolische_bloeddruk": {}
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreodie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
